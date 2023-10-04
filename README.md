@@ -8,6 +8,12 @@ This project uses Apache Airflow to automate the execution of a Meltano pipeline
 - Apache Airflow installed in your environment.
 - Meltano installed in your environment.
 
+## Before running 
+
+1. On `/meltano/files_def.json` please add the path where the csv file is. In this project is located in `/meltano/input/CSV-Template1.csv`
+2. On `/dags/meltano_pipeline.py` please add the path where `meltano` is located.
+3. Please keep in mind that this is a local project thats why we have to set the paths
+
 ## Execution
 
 1. Run the following command to execute the project in the local environment
