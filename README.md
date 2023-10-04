@@ -28,11 +28,11 @@ airflowctl start
 
 3. Here are the logs
 
-![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/logspng)
+![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/logs.png)
 
 4. This is the output after executing the pipeline
 
-![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/csv.png
+![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/csv.png)
 
 This is a basic example of how we can run a Meltano command in Apache Airflow.
 
