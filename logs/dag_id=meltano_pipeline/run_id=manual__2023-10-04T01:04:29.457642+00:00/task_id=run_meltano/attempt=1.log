@@ -1,0 +1,33 @@
+[2023-10-03T19:04:30.689-0600] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: meltano_pipeline.run_meltano manual__2023-10-04T01:04:29.457642+00:00 [queued]>
+[2023-10-03T19:04:30.693-0600] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: meltano_pipeline.run_meltano manual__2023-10-04T01:04:29.457642+00:00 [queued]>
+[2023-10-03T19:04:30.693-0600] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2023-10-03T19:04:30.698-0600] {taskinstance.py:1380} INFO - Executing <Task(BashOperator): run_meltano> on 2023-10-04 01:04:29.457642+00:00
+[2023-10-03T19:04:30.701-0600] {standard_task_runner.py:57} INFO - Started process 20135 to run task
+[2023-10-03T19:04:30.703-0600] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'meltano_pipeline', 'run_meltano', 'manual__2023-10-04T01:04:29.457642+00:00', '--job-id', '9', '--raw', '--subdir', 'DAGS_FOLDER/meltano_pipeline.py', '--cfg-path', '/var/folders/y4/6wljw9kn3853yjm043jk3qcm0000gn/T/tmp_3w_pi5e']
+[2023-10-03T19:04:30.704-0600] {standard_task_runner.py:85} INFO - Job 9: Subtask run_meltano
+[2023-10-03T19:04:30.726-0600] {task_command.py:415} INFO - Running <TaskInstance: meltano_pipeline.run_meltano manual__2023-10-04T01:04:29.457642+00:00 [running]> on host bryans-macbook-pro.local
+[2023-10-03T19:04:30.747-0600] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='meltano_pipeline' AIRFLOW_CTX_TASK_ID='run_meltano' AIRFLOW_CTX_EXECUTION_DATE='2023-10-04T01:04:29.457642+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-10-04T01:04:29.457642+00:00'
+[2023-10-03T19:04:30.748-0600] {subprocess.py:63} INFO - Tmp dir root location: /var/folders/y4/6wljw9kn3853yjm043jk3qcm0000gn/T
+[2023-10-03T19:04:30.748-0600] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'cd /Users/bryan/Desktop/Pipelines/migration_project/meltano && meltano run tap-csv target-csv']
+[2023-10-03T19:04:30.752-0600] {subprocess.py:86} INFO - Output:
+[2023-10-03T19:04:31.220-0600] {subprocess.py:93} INFO - [2m2023-10-04T01:04:31.220641Z[0m [[32m[1minfo     [0m] [1mEnvironment 'dev' is active[0m
+[2023-10-03T19:04:34.316-0600] {subprocess.py:93} INFO - [2m2023-10-04T01:04:34.316006Z[0m [[31m[1merror    [0m] [1mCannot start plugin tap-csv: Catalog discovery failed: command ['/Users/bryan/Desktop/Pipelines/migration_project/meltano/.meltano/extractors/tap-csv/venv/bin/tap-csv', '--config', '/Users/bryan/Desktop/Pipelines/migration_project/meltano/.meltano/run/tap-csv/tap.2be82290-57e1-4de7-89df-17f73f8d74a9.config.json', '--discover'] returned 1 with stderr:
+[2023-10-03T19:04:34.316-0600] {subprocess.py:93} INFO -  2023-10-03 19:04:34,272 | ERROR    | tap-csv              | No CSV file definitions found.
+[2023-10-03T19:04:34.316-0600] {subprocess.py:93} INFO - [0m
+[2023-10-03T19:04:34.316-0600] {subprocess.py:93} INFO - [2m2023-10-04T01:04:34.316292Z[0m [[31m[1merror    [0m] [1mBlock run completed.          [0m [36mblock_type[0m=[35mExtractLoadBlocks[0m [36merr[0m=[35mRunnerError("Cannot start plugin tap-csv: Catalog discovery failed: command ['/Users/bryan/Desktop/Pipelines/migration_project/meltano/.meltano/extractors/tap-csv/venv/bin/tap-csv', '--config', '/Users/bryan/Desktop/Pipelines/migration_project/meltano/.meltano/run/tap-csv/tap.2be82290-57e1-4de7-89df-17f73f8d74a9.config.json', '--discover'] returned 1 with stderr:\n 2023-10-03 19:04:34,272 | ERROR    | tap-csv              | No CSV file definitions found.\n")[0m [36mexit_codes[0m=[35m{}[0m [36mset_number[0m=[35m0[0m [36msuccess[0m=[35mFalse[0m
+[2023-10-03T19:04:34.317-0600] {subprocess.py:93} INFO - Need help fixing this problem? Visit http://melta.no/ for troubleshooting steps, or to
+[2023-10-03T19:04:34.318-0600] {subprocess.py:93} INFO - join our friendly Slack community.
+[2023-10-03T19:04:34.318-0600] {subprocess.py:93} INFO - 
+[2023-10-03T19:04:34.318-0600] {subprocess.py:93} INFO - Run invocation could not be completed as block failed: Cannot start plugin tap-csv: Catalog discovery failed: command ['/Users/bryan/Desktop/Pipelines/migration_project/meltano/.meltano/extractors/tap-csv/venv/bin/tap-csv', '--config', '/Users/bryan/Desktop/Pipelines/migration_project/meltano/.meltano/run/tap-csv/tap.2be82290-57e1-4de7-89df-17f73f8d74a9.config.json', '--discover'] returned 1 with stderr:
+[2023-10-03T19:04:34.318-0600] {subprocess.py:93} INFO -  2023-10-03 19:04:34,272 | ERROR    | tap-csv              | No CSV file definitions found.
+[2023-10-03T19:04:34.318-0600] {subprocess.py:93} INFO - 
+[2023-10-03T19:04:35.618-0600] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-10-03T19:04:35.621-0600] {taskinstance.py:1935} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/bryan/Desktop/Pipelines/migration_project/.venv/lib/python3.10/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-10-03T19:04:35.624-0600] {taskinstance.py:1398} INFO - Marking task as FAILED. dag_id=meltano_pipeline, task_id=run_meltano, execution_date=20231004T010429, start_date=20231004T010430, end_date=20231004T010435
+[2023-10-03T19:04:35.629-0600] {standard_task_runner.py:104} ERROR - Failed to execute job 9 for task run_meltano (Bash command failed. The command returned a non-zero exit code 1.; 20135)
+[2023-10-03T19:04:35.636-0600] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-10-03T19:04:35.642-0600] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

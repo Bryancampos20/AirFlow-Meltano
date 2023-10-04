@@ -1,0 +1,212 @@
+[2023-10-03T18:41:54.186-0600] {processor.py:157} INFO - Started process (PID=16400) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:41:54.187-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:41:54.187-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:41:54.187-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:41:54.211-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:41:54.230-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:41:54.229-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:41:54.268-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:41:54.268-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:41:54.283-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.097 seconds
+[2023-10-03T18:42:25.286-0600] {processor.py:157} INFO - Started process (PID=16426) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:42:25.286-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:42:25.287-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:42:25.287-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:42:25.314-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:42:25.384-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:42:25.384-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:42:25.390-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:42:25.390-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:42:25.397-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.112 seconds
+[2023-10-03T18:42:56.679-0600] {processor.py:157} INFO - Started process (PID=16441) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:42:56.679-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:42:56.679-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:42:56.679-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:42:56.706-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:42:56.777-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:42:56.777-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:42:56.783-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:42:56.783-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:42:56.789-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.111 seconds
+[2023-10-03T18:43:27.937-0600] {processor.py:157} INFO - Started process (PID=16479) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:43:27.937-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:43:27.937-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:43:27.937-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:43:27.969-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:43:28.044-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:43:28.044-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:43:28.050-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:43:28.050-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:43:28.057-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.121 seconds
+[2023-10-03T18:43:59.116-0600] {processor.py:157} INFO - Started process (PID=16515) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:43:59.116-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:43:59.117-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:43:59.117-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:43:59.147-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:43:59.229-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:43:59.229-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:43:59.237-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:43:59.237-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:43:59.245-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.130 seconds
+[2023-10-03T18:44:30.108-0600] {processor.py:157} INFO - Started process (PID=16545) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:44:30.109-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:44:30.109-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:44:30.109-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:44:30.138-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:44:30.215-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:44:30.215-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:44:30.223-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:44:30.223-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:44:30.231-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.123 seconds
+[2023-10-03T18:45:01.077-0600] {processor.py:157} INFO - Started process (PID=16589) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:45:01.079-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:45:01.079-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:45:01.079-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:45:01.116-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:45:01.204-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:45:01.204-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:45:01.212-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:45:01.212-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:45:01.220-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.144 seconds
+[2023-10-03T18:45:32.063-0600] {processor.py:157} INFO - Started process (PID=16647) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:45:32.064-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:45:32.064-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:45:32.064-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:45:32.097-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:45:32.181-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:45:32.181-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:45:32.188-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:45:32.188-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:45:32.197-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.134 seconds
+[2023-10-03T18:46:03.016-0600] {processor.py:157} INFO - Started process (PID=16682) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:46:03.017-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:46:03.017-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:46:03.017-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:46:03.052-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:46:03.128-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:46:03.128-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:46:03.135-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:46:03.135-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:46:03.143-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.127 seconds
+[2023-10-03T18:46:33.923-0600] {processor.py:157} INFO - Started process (PID=16714) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:46:33.924-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:46:33.924-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:46:33.924-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:46:33.954-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:46:34.030-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:46:34.030-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:46:34.036-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:46:34.036-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:46:34.043-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.121 seconds
+[2023-10-03T18:47:04.799-0600] {processor.py:157} INFO - Started process (PID=16768) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:47:04.800-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:47:04.800-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:04.800-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:47:04.829-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:47:04.906-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:04.906-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:47:04.913-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:04.913-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-04T00:00:00+00:00, run_after=2023-10-05T00:00:00+00:00
+[2023-10-03T18:47:04.921-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.122 seconds
+[2023-10-03T18:47:35.638-0600] {processor.py:157} INFO - Started process (PID=16805) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:47:35.638-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:47:35.638-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:35.638-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:47:35.666-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:47:35.959-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:35.959-0600] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:example_dag_basic' as access control is unset.
+[2023-10-03T18:47:35.959-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:35.959-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:47:35.962-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:35.962-0600] {dag.py:2937} INFO - Creating ORM DAG for example_dag_basic
+[2023-10-03T18:47:35.965-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:47:35.965-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:47:35.972-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.335 seconds
+[2023-10-03T18:48:06.757-0600] {processor.py:157} INFO - Started process (PID=16868) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:48:06.758-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:48:06.758-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:48:06.758-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:48:06.789-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:48:06.886-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:48:06.885-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:48:06.893-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:48:06.893-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:48:06.901-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.145 seconds
+[2023-10-03T18:48:37.627-0600] {processor.py:157} INFO - Started process (PID=17320) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:48:37.628-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:48:37.628-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:48:37.628-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:48:37.657-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:48:37.734-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:48:37.734-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:48:37.741-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:48:37.741-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:48:37.748-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.121 seconds
+[2023-10-03T18:49:08.446-0600] {processor.py:157} INFO - Started process (PID=17362) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:49:08.447-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:49:08.447-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:49:08.447-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:49:08.478-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:49:08.554-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:49:08.554-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:49:08.562-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:49:08.562-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:49:08.569-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.123 seconds
+[2023-10-03T18:49:39.271-0600] {processor.py:157} INFO - Started process (PID=17396) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:49:39.271-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:49:39.272-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:49:39.272-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:49:39.299-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:49:39.375-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:49:39.375-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:49:39.382-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:49:39.382-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:49:39.389-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.119 seconds
+[2023-10-03T18:50:10.056-0600] {processor.py:157} INFO - Started process (PID=17432) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:50:10.057-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:50:10.057-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:50:10.057-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:50:10.087-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:50:10.170-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:50:10.170-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:50:10.176-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:50:10.176-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:50:10.184-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.128 seconds
+[2023-10-03T18:53:14.742-0600] {processor.py:157} INFO - Started process (PID=18477) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:53:14.743-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:53:14.743-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:53:14.743-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:53:14.766-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:53:14.782-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:53:14.781-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:53:14.818-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:53:14.818-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:53:14.826-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.085 seconds
+[2023-10-03T18:53:45.861-0600] {processor.py:157} INFO - Started process (PID=18516) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:53:45.862-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:53:45.862-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:53:45.862-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:53:45.892-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:53:45.965-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:53:45.965-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:53:45.972-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:53:45.972-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:53:45.979-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.118 seconds
+[2023-10-03T18:56:26.851-0600] {processor.py:157} INFO - Started process (PID=18840) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:56:26.852-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:56:26.853-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:56:26.853-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:56:26.879-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:56:26.894-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:56:26.893-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:56:26.927-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:56:26.927-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:56:26.934-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.084 seconds
+[2023-10-03T18:56:57.856-0600] {processor.py:157} INFO - Started process (PID=18886) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:56:57.856-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:56:57.857-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:56:57.857-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:56:57.887-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:56:57.966-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:56:57.965-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:56:57.972-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:56:57.972-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:56:57.978-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.123 seconds
+[2023-10-03T18:57:29.134-0600] {processor.py:157} INFO - Started process (PID=18922) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:57:29.135-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:57:29.135-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:57:29.135-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:57:29.164-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:57:29.241-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:57:29.241-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:57:29.248-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:57:29.248-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:57:29.255-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.121 seconds
+[2023-10-03T18:58:00.327-0600] {processor.py:157} INFO - Started process (PID=19008) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:58:00.327-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:58:00.328-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:58:00.328-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:58:00.354-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:58:00.424-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:58:00.424-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:58:00.430-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:58:00.430-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:58:00.437-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.111 seconds
+[2023-10-03T18:58:31.421-0600] {processor.py:157} INFO - Started process (PID=19393) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:58:31.421-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:58:31.422-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:58:31.422-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:58:31.448-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:58:31.517-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:58:31.517-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:58:31.523-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:58:31.523-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:58:31.530-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.109 seconds
+[2023-10-03T18:59:02.359-0600] {processor.py:157} INFO - Started process (PID=19466) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:59:02.360-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:59:02.360-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:59:02.360-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:59:02.394-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:59:02.482-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:59:02.482-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:59:02.489-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:59:02.489-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:59:02.495-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.137 seconds
+[2023-10-03T18:59:33.271-0600] {processor.py:157} INFO - Started process (PID=19571) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:59:33.272-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T18:59:33.273-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:59:33.273-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:59:33.305-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T18:59:33.382-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:59:33.382-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T18:59:33.389-0600] {logging_mixin.py:151} INFO - [2023-10-03T18:59:33.389-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T18:59:33.396-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.126 seconds
+[2023-10-03T19:00:04.191-0600] {processor.py:157} INFO - Started process (PID=19649) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:00:04.192-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T19:00:04.192-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:00:04.192-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:00:04.219-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:00:04.290-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:00:04.290-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T19:00:04.297-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:00:04.296-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T19:00:04.303-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.112 seconds
+[2023-10-03T19:00:35.161-0600] {processor.py:157} INFO - Started process (PID=19695) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:00:35.161-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T19:00:35.161-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:00:35.161-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:00:35.188-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:00:35.257-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:00:35.257-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T19:00:35.263-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:00:35.263-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T19:00:35.270-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.110 seconds
+[2023-10-03T19:01:06.093-0600] {processor.py:157} INFO - Started process (PID=19770) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:01:06.094-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T19:01:06.094-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:01:06.094-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:01:06.122-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:01:06.196-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:01:06.196-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T19:01:06.202-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:01:06.202-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T19:01:06.209-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.117 seconds
+[2023-10-03T19:01:37.037-0600] {processor.py:157} INFO - Started process (PID=19827) to work on /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:01:37.038-0600] {processor.py:829} INFO - Processing file /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py for tasks to queue
+[2023-10-03T19:01:37.038-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:01:37.038-0600] {dagbag.py:539} INFO - Filling up the DagBag from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:01:37.062-0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_dag_basic']) retrieved from /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:01:37.123-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:01:37.123-0600] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-03T19:01:37.131-0600] {logging_mixin.py:151} INFO - [2023-10-03T19:01:37.130-0600] {dag.py:3696} INFO - Setting next_dagrun for example_dag_basic to 2023-10-03T00:00:00+00:00, run_after=2023-10-04T00:00:00+00:00
+[2023-10-03T19:01:37.138-0600] {processor.py:179} INFO - Processing /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py took 0.101 seconds

@@ -1,0 +1,23 @@
+[2023-10-03T19:01:58.518-0600] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: meltano_pipeline.run_meltano manual__2023-10-04T01:01:56.941534+00:00 [queued]>
+[2023-10-03T19:01:58.521-0600] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: meltano_pipeline.run_meltano manual__2023-10-04T01:01:56.941534+00:00 [queued]>
+[2023-10-03T19:01:58.521-0600] {taskinstance.py:1359} INFO - Starting attempt 1 of 1
+[2023-10-03T19:01:58.525-0600] {taskinstance.py:1380} INFO - Executing <Task(BashOperator): run_meltano> on 2023-10-04 01:01:56.941534+00:00
+[2023-10-03T19:01:58.527-0600] {standard_task_runner.py:57} INFO - Started process 19869 to run task
+[2023-10-03T19:01:58.530-0600] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'meltano_pipeline', 'run_meltano', 'manual__2023-10-04T01:01:56.941534+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/meltano_pipeline.py', '--cfg-path', '/var/folders/y4/6wljw9kn3853yjm043jk3qcm0000gn/T/tmph1ohx5uj']
+[2023-10-03T19:01:58.531-0600] {standard_task_runner.py:85} INFO - Job 8: Subtask run_meltano
+[2023-10-03T19:01:58.545-0600] {task_command.py:415} INFO - Running <TaskInstance: meltano_pipeline.run_meltano manual__2023-10-04T01:01:56.941534+00:00 [running]> on host bryans-macbook-pro.local
+[2023-10-03T19:01:58.563-0600] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='meltano_pipeline' AIRFLOW_CTX_TASK_ID='run_meltano' AIRFLOW_CTX_EXECUTION_DATE='2023-10-04T01:01:56.941534+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-10-04T01:01:56.941534+00:00'
+[2023-10-03T19:01:58.564-0600] {subprocess.py:63} INFO - Tmp dir root location: /var/folders/y4/6wljw9kn3853yjm043jk3qcm0000gn/T
+[2023-10-03T19:01:58.564-0600] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'cd ./meltano && meltano run tap-csv target-csv']
+[2023-10-03T19:01:58.567-0600] {subprocess.py:86} INFO - Output:
+[2023-10-03T19:01:58.568-0600] {subprocess.py:93} INFO - /bin/bash: line 0: cd: ./meltano: No such file or directory
+[2023-10-03T19:01:58.569-0600] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-10-03T19:01:58.572-0600] {taskinstance.py:1935} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/bryan/Desktop/Pipelines/migration_project/.venv/lib/python3.10/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-10-03T19:01:58.573-0600] {taskinstance.py:1398} INFO - Marking task as FAILED. dag_id=meltano_pipeline, task_id=run_meltano, execution_date=20231004T010156, start_date=20231004T010158, end_date=20231004T010158
+[2023-10-03T19:01:58.577-0600] {standard_task_runner.py:104} ERROR - Failed to execute job 8 for task run_meltano (Bash command failed. The command returned a non-zero exit code 1.; 19869)
+[2023-10-03T19:01:58.584-0600] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-10-03T19:01:58.590-0600] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,1082 @@
+[2023-10-03T18:41:53.671-0600] {manager.py:487} INFO - Processing files using up to 1 processes at a time 
+[2023-10-03T18:41:53.671-0600] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2023-10-03T18:41:53.671-0600] {manager.py:489} INFO - Checking for new files in /Users/bryan/Desktop/Pipelines/migration_project/dags every 300 seconds
+[2023-10-03T18:41:53.671-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:41:53.671-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:41:54.397-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.66s           2023-10-04T00:41:54
+================================================================================
+[2023-10-03T18:42:25.485-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.74s           2023-10-04T00:42:25
+================================================================================
+[2023-10-03T18:42:56.876-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.76s           2023-10-04T00:42:56
+================================================================================
+[2023-10-03T18:43:28.147-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.71s           2023-10-04T00:43:28
+================================================================================
+[2023-10-03T18:43:59.373-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.77s           2023-10-04T00:43:59
+================================================================================
+[2023-10-03T18:44:30.351-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.75s           2023-10-04T00:44:30
+================================================================================
+[2023-10-03T18:45:01.345-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.81s           2023-10-04T00:45:01
+================================================================================
+[2023-10-03T18:45:32.317-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.80s           2023-10-04T00:45:32
+================================================================================
+[2023-10-03T18:46:03.242-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.74s           2023-10-04T00:46:03
+================================================================================
+[2023-10-03T18:46:34.145-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.72s           2023-10-04T00:46:34
+================================================================================
+[2023-10-03T18:46:54.226-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:46:54.228-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:47:05.029-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.76s           2023-10-04T00:47:05
+================================================================================
+[2023-10-03T18:47:36.098-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.98s           2023-10-04T00:47:36
+================================================================================
+[2023-10-03T18:48:07.032-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.85s           2023-10-04T00:48:07
+================================================================================
+[2023-10-03T18:48:37.852-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.73s           2023-10-04T00:48:37
+================================================================================
+[2023-10-03T18:49:08.674-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.74s           2023-10-04T00:49:08
+================================================================================
+[2023-10-03T18:49:39.493-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.75s           2023-10-04T00:49:39
+================================================================================
+[2023-10-03T18:50:10.283-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.74s           2023-10-04T00:50:10
+================================================================================
+[2023-10-03T18:53:14.251-0600] {manager.py:487} INFO - Processing files using up to 1 processes at a time 
+[2023-10-03T18:53:14.251-0600] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2023-10-03T18:53:14.251-0600] {manager.py:489} INFO - Checking for new files in /Users/bryan/Desktop/Pipelines/migration_project/dags every 300 seconds
+[2023-10-03T18:53:14.251-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:53:14.252-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:53:14.932-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.63s           2023-10-04T00:53:14
+================================================================================
+[2023-10-03T18:53:46.070-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.76s           2023-10-04T00:53:46
+================================================================================
+[2023-10-03T18:54:13.172-0600] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2023-10-03T18:56:26.360-0600] {manager.py:487} INFO - Processing files using up to 1 processes at a time 
+[2023-10-03T18:56:26.361-0600] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2023-10-03T18:56:26.362-0600] {manager.py:489} INFO - Checking for new files in /Users/bryan/Desktop/Pipelines/migration_project/dags every 300 seconds
+[2023-10-03T18:56:26.362-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:56:26.362-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T18:56:27.020-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.61s           2023-10-04T00:56:27
+================================================================================
+[2023-10-03T18:56:58.081-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.74s           2023-10-04T00:56:58
+================================================================================
+[2023-10-03T18:57:29.355-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.78s           2023-10-04T00:57:29
+================================================================================
+[2023-10-03T18:58:00.524-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.74s           2023-10-04T00:58:00
+================================================================================
+[2023-10-03T18:58:31.616-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.71s           2023-10-04T00:58:31
+================================================================================
+[2023-10-03T18:59:02.584-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.78s           2023-10-04T00:59:02
+================================================================================
+[2023-10-03T18:59:33.514-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.76s           2023-10-04T00:59:33
+================================================================================
+[2023-10-03T19:00:04.402-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.71s           2023-10-04T01:00:04
+================================================================================
+[2023-10-03T19:00:35.360-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.75s           2023-10-04T01:00:35
+================================================================================
+[2023-10-03T19:01:06.316-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.73s           2023-10-04T01:01:06
+================================================================================
+[2023-10-03T19:01:26.378-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:01:26.380-0600] {manager.py:762} INFO - There are 2 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:01:37.235-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                   PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py                           1           0  0.73s           2023-10-04T01:01:37
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                            1           0  0.96s           2023-10-04T01:01:27
+================================================================================
+[2023-10-03T19:01:38.458-0600] {manager.py:1145} WARNING - Skipping processing of missing file: /Users/bryan/Desktop/Pipelines/migration_project/dags/example_dag_basic.py
+[2023-10-03T19:02:07.384-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:01:58
+================================================================================
+[2023-10-03T19:02:38.349-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.83s           2023-10-04T01:02:29
+================================================================================
+[2023-10-03T19:03:09.083-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.69s           2023-10-04T01:02:59
+================================================================================
+[2023-10-03T19:03:40.024-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.77s           2023-10-04T01:03:30
+================================================================================
+[2023-10-03T19:04:10.887-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.75s           2023-10-04T01:04:01
+================================================================================
+[2023-10-03T19:04:41.200-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  1.02s           2023-10-04T01:04:21
+================================================================================
+[2023-10-03T19:05:11.408-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:04:52
+================================================================================
+[2023-10-03T19:05:41.495-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.70s           2023-10-04T01:05:23
+================================================================================
+[2023-10-03T19:06:11.563-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.77s           2023-10-04T01:05:54
+================================================================================
+[2023-10-03T19:06:26.520-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:06:26.522-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:06:41.625-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.67s           2023-10-04T01:06:25
+================================================================================
+[2023-10-03T19:07:11.693-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.70s           2023-10-04T01:06:56
+================================================================================
+[2023-10-03T19:07:41.940-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.69s           2023-10-04T01:07:26
+================================================================================
+[2023-10-03T19:08:12.725-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.72s           2023-10-04T01:07:57
+================================================================================
+[2023-10-03T19:08:42.784-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:08:28
+================================================================================
+[2023-10-03T19:09:13.424-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.58s           2023-10-04T01:08:59
+================================================================================
+[2023-10-03T19:09:44.076-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:09:29
+================================================================================
+[2023-10-03T19:10:14.942-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:10:00
+================================================================================
+[2023-10-03T19:10:45.638-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:10:31
+================================================================================
+[2023-10-03T19:11:16.391-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.70s           2023-10-04T01:11:02
+================================================================================
+[2023-10-03T19:11:26.699-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:11:26.703-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:11:47.218-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:11:33
+================================================================================
+[2023-10-03T19:12:18.005-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.68s           2023-10-04T01:12:03
+================================================================================
+[2023-10-03T19:12:48.825-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.77s           2023-10-04T01:12:34
+================================================================================
+[2023-10-03T19:13:19.669-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.80s           2023-10-04T01:13:05
+================================================================================
+[2023-10-03T19:13:50.536-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:13:36
+================================================================================
+[2023-10-03T19:14:21.405-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.85s           2023-10-04T01:14:07
+================================================================================
+[2023-10-03T19:14:52.321-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:14:38
+================================================================================
+[2023-10-03T19:15:23.073-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:15:08
+================================================================================
+[2023-10-03T19:15:53.776-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.63s           2023-10-04T01:15:39
+================================================================================
+[2023-10-03T19:16:24.537-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.64s           2023-10-04T01:16:10
+================================================================================
+[2023-10-03T19:16:26.896-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:16:26.898-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:16:55.237-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.64s           2023-10-04T01:16:40
+================================================================================
+[2023-10-03T19:17:25.904-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.58s           2023-10-04T01:17:11
+================================================================================
+[2023-10-03T19:17:56.597-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.61s           2023-10-04T01:17:42
+================================================================================
+[2023-10-03T19:18:27.011-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.69s           2023-10-04T01:18:13
+================================================================================
+[2023-10-03T19:18:57.089-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:18:43
+================================================================================
+[2023-10-03T19:19:28.103-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.75s           2023-10-04T01:19:14
+================================================================================
+[2023-10-03T19:19:58.741-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:19:45
+================================================================================
+[2023-10-03T19:20:29.577-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:20:16
+================================================================================
+[2023-10-03T19:21:00.420-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:20:47
+================================================================================
+[2023-10-03T19:21:27.146-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:21:27.150-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:21:31.260-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.82s           2023-10-04T01:21:18
+================================================================================
+[2023-10-03T19:22:02.014-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.75s           2023-10-04T01:21:48
+================================================================================
+[2023-10-03T19:22:32.883-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.72s           2023-10-04T01:22:19
+================================================================================
+[2023-10-03T19:23:03.700-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.68s           2023-10-04T01:22:50
+================================================================================
+[2023-10-03T19:23:34.377-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:23:21
+================================================================================
+[2023-10-03T19:24:05.214-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:23:52
+================================================================================
+[2023-10-03T19:24:36.001-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:24:22
+================================================================================
+[2023-10-03T19:25:06.822-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:24:53
+================================================================================
+[2023-10-03T19:25:37.610-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.66s           2023-10-04T01:25:24
+================================================================================
+[2023-10-03T19:26:08.365-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.65s           2023-10-04T01:25:55
+================================================================================
+[2023-10-03T19:26:27.375-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:26:27.378-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:26:39.030-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:26:25
+================================================================================
+[2023-10-03T19:27:09.733-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:26:56
+================================================================================
+[2023-10-03T19:27:40.607-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:27:27
+================================================================================
+[2023-10-03T19:28:11.370-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.72s           2023-10-04T01:27:58
+================================================================================
+[2023-10-03T19:28:42.255-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.74s           2023-10-04T01:28:28
+================================================================================
+[2023-10-03T19:29:12.947-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:28:59
+================================================================================
+[2023-10-03T19:29:43.757-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:29:30
+================================================================================
+[2023-10-03T19:30:14.567-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.72s           2023-10-04T01:30:01
+================================================================================
+[2023-10-03T19:30:45.394-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.81s           2023-10-04T01:30:32
+================================================================================
+[2023-10-03T19:31:16.180-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.76s           2023-10-04T01:31:03
+================================================================================
+[2023-10-03T19:31:27.513-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:31:27.516-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:31:46.980-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:31:33
+================================================================================
+[2023-10-03T19:32:17.159-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.64s           2023-10-04T01:32:05
+================================================================================
+[2023-10-03T19:32:47.814-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.63s           2023-10-04T01:32:22
+================================================================================
+[2023-10-03T19:33:18.073-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.61s           2023-10-04T01:32:54
+================================================================================
+[2023-10-03T19:33:48.432-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:33:25
+================================================================================
+[2023-10-03T19:34:19.133-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:33:55
+================================================================================
+[2023-10-03T19:34:49.853-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:34:26
+================================================================================
+[2023-10-03T19:35:19.925-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.56s           2023-10-04T01:34:57
+================================================================================
+[2023-10-03T19:35:50.007-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:35:27
+================================================================================
+[2023-10-03T19:36:20.090-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.61s           2023-10-04T01:35:58
+================================================================================
+[2023-10-03T19:36:27.691-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:36:27.695-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:36:50.168-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:36:29
+================================================================================
+[2023-10-03T19:37:20.235-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.62s           2023-10-04T01:37:00
+================================================================================
+[2023-10-03T19:37:50.318-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:37:30
+================================================================================
+[2023-10-03T19:38:20.404-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:38:01
+================================================================================
+[2023-10-03T19:38:50.486-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.68s           2023-10-04T01:38:32
+================================================================================
+[2023-10-03T19:39:20.567-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:39:03
+================================================================================
+[2023-10-03T19:39:50.654-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.58s           2023-10-04T01:39:33
+================================================================================
+[2023-10-03T19:40:20.746-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:40:04
+================================================================================
+[2023-10-03T19:40:50.835-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.62s           2023-10-04T01:40:35
+================================================================================
+[2023-10-03T19:41:21.193-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:41:06
+================================================================================
+[2023-10-03T19:41:27.895-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:41:27.896-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:41:51.890-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.62s           2023-10-04T01:41:36
+================================================================================
+[2023-10-03T19:42:22.696-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.73s           2023-10-04T01:42:07
+================================================================================
+[2023-10-03T19:42:52.762-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.78s           2023-10-04T01:42:38
+================================================================================
+[2023-10-03T19:43:41.762-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.71s           2023-10-04T01:43:19
+================================================================================
+[2023-10-03T19:48:05.889-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:48:05.890-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:48:11.992-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.79s           2023-10-04T01:48:06
+================================================================================
+[2023-10-03T19:48:42.207-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.77s           2023-10-04T01:48:37
+================================================================================
+[2023-10-03T19:49:12.577-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.67s           2023-10-04T01:49:08
+================================================================================
+[2023-10-03T19:49:42.683-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:49:39
+================================================================================
+[2023-10-03T19:50:12.768-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.63s           2023-10-04T01:50:10
+================================================================================
+[2023-10-03T19:50:42.876-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.61s           2023-10-04T01:50:40
+================================================================================
+[2023-10-03T19:51:12.952-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.58s           2023-10-04T01:51:11
+================================================================================
+[2023-10-03T19:51:43.032-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:51:42
+================================================================================
+[2023-10-03T19:52:13.091-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.59s           2023-10-04T01:52:13
+================================================================================
+[2023-10-03T19:52:43.837-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.64s           2023-10-04T01:52:43
+================================================================================
+[2023-10-03T19:53:06.044-0600] {manager.py:759} INFO - Searching for files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:53:06.050-0600] {manager.py:762} INFO - There are 1 files in /Users/bryan/Desktop/Pipelines/migration_project/dags
+[2023-10-03T19:53:14.548-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.61s           2023-10-04T01:53:14
+================================================================================
+[2023-10-03T19:53:45.223-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.61s           2023-10-04T01:53:45
+================================================================================
+[2023-10-03T19:54:15.892-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.60s           2023-10-04T01:54:15
+================================================================================
+[2023-10-03T19:54:46.559-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.65s           2023-10-04T01:54:46
+================================================================================
+[2023-10-03T19:55:17.274-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.64s           2023-10-04T01:55:17
+================================================================================
+[2023-10-03T19:55:48.010-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.66s           2023-10-04T01:55:48
+================================================================================
+[2023-10-03T19:56:18.674-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.58s           2023-10-04T01:56:18
+================================================================================
+[2023-10-03T19:56:49.372-0600] {manager.py:893} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/bryan/Desktop/Pipelines/migration_project/dags/meltano_pipeline.py                           1           0  0.62s           2023-10-04T01:56:49
+================================================================================
