@@ -20,19 +20,19 @@ airflowctl start
 
 1. This is the dashboard where you can see the DAG before it is executed.
 
-![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/dashboard.png)
+![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/dashboard.png)
 
 2. This is the graphical view where we can see that it executed successfully.
 
-![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/dashboard.png)
+![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/graph.png)
 
 3. Here are the logs
 
-![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/dashboard.png)
+![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/logspng)
 
 4. This is the output after executing the pipeline
 
-![Screenshot (160)](https://github.com/Bryancampos20/ApacheAirflow/blob/main/results/dashboard.png)
+![Screenshot (160)](https://github.com/Bryancampos20/AirFlow-Meltano/blob/main/results/csv.png
 
 This is a basic example of how we can run a Meltano command in Apache Airflow.
 
